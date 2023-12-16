@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 15px;
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+.main {
+  width:  375px;
+  margin: 5% auto 5% auto;
+  padding: 10px 10px;
+  border-radius: 10px;
+  background-color: hsl(0, 0%, 100%);
+}
+.image {
+  width: 100%;
+  border-radius: 10px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.bold {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  padding: 10px;
+}
+.text {
+  font-family: Outfit, "Courier New", Courier, monospace;
+}
+.light {
+  font-weight: 400;
+  padding: 10px;
+  color: hsl(220, 15%, 55%);
+}
+@media screen
+    and (max-device-width: 640px) {
+  .main {
+    width: 50%;
+     margin-top: 150px;
+  }
+}
+@media screen and (min-device-width: 768px) 
+    and (max-device-width: 1024px) {
+  .main {
+    width: 50%;
+    margin-top: 100px;
+  }
+}
+/* @media screen and (min-width: 1024px) {
+  .main {
+     width: 30%;
+  }
+} */
