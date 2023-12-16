@@ -29,8 +29,8 @@ This is my first challenge at frontendmentor. I was challenged tp build a QR com
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/MamaFati/QR-Code-container)
+- Live Site URL: [Add live site URL here](https://astonishing-zabaione-bb0aa1.netlify.app/)
 
 ## My process
 
@@ -64,8 +64,8 @@ I wounld like to continue learning media queries for my responsiveness
 
 ## Author
 
-- Website - [ Abu Fati](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [ Abu Fati](https://astonishing-zabaione-bb0aa1.netlify.app/)
+- Frontend Mentor - [@MamaFati](https://www.frontendmentor.io/profile/MamaFati)
+- Twitter - [@Fati29667004](https://www.twitter.com/TimaTech)
  
  
