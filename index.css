@@ -7,10 +7,14 @@ body {
   font-size: 15px;
   background-color: hsl(212, 45%, 89%);
   text-align: center;
+  min-height:100vh;
+  display: grid;
+  place-items: center;
 }
 .main {
   width:  375px;
-  margin: 5% auto 5% auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+  font-size: 20px;
   padding: 10px 10px;
   border-radius: 10px;
   background-color: hsl(0, 0%, 100%);
